@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Connected-App-Security/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Connected-App-Security?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Connected-App-Security/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Connected-App-Security?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Connected-App-Security/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Connected-App-Security?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Connected-App-Security/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -70,64 +70,64 @@ The following enterprise platforms provide managed OAuth token discovery, postur
 
 Curated open-source repositories for self-hosting zero-trust access proxies, OAuth identity providers, SaaS posture assessment engines, secret scanners, and runtime monitors. Sorted by GitHub stargazers (descending):
 
-- **[trivy](https://github.com/aquasecurity/trivy)** [![GitHub stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers)  
+- **[trivy](https://github.com/aquasecurity/trivy)** [![GitHub_Stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers)  
   Comprehensive security scanner for container images, file systems, Git repositories, virtual machine images, and SaaS misconfigurations (Apache-2.0).
 
-- **[keycloak](https://github.com/keycloak/keycloak)** [![GitHub stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers)  
+- **[keycloak](https://github.com/keycloak/keycloak)** [![GitHub_Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers)  
   Open-source Identity and Access Management solution supporting OAuth 2.0, OpenID Connect, fine-grained client authorization, and user federation (Apache-2.0).
 
-- **[vault](https://github.com/hashicorp/vault)** [![GitHub stars](https://img.shields.io/github/stars/hashicorp/vault?style=social&color=white)](https://github.com/hashicorp/vault/stargazers)  
+- **[vault](https://github.com/hashicorp/vault)** [![GitHub_Stars](https://img.shields.io/github/stars/hashicorp/vault?style=social&color=white)](https://github.com/hashicorp/vault/stargazers)  
   Identity-based secrets and encryption management system for dynamic OAuth tokens, certificates, and API credentials (BUSL-1.1).
 
-- **[authelia](https://github.com/authelia/authelia)** [![GitHub stars](https://img.shields.io/github/stars/authelia/authelia?style=social&color=white)](https://github.com/authelia/authelia/stargazers)  
+- **[authelia](https://github.com/authelia/authelia)** [![GitHub_Stars](https://img.shields.io/github/stars/authelia/authelia?style=social&color=white)](https://github.com/authelia/authelia/stargazers)  
   Open-source authentication and authorization server providing two-factor authentication, single sign-on (SSO), and forward-auth middleware for reverse proxies (Apache-2.0).
 
-- **[trufflehog](https://github.com/trufflesecurity/trufflehog)** [![GitHub stars](https://img.shields.io/github/stars/trufflesecurity/trufflehog?style=social&color=white)](https://github.com/trufflesecurity/trufflehog/stargazers)  
+- **[trufflehog](https://github.com/trufflesecurity/trufflehog)** [![GitHub_Stars](https://img.shields.io/github/stars/trufflesecurity/trufflehog?style=social&color=white)](https://github.com/trufflesecurity/trufflehog/stargazers)  
   High-performance secret scanner searching for leaked connected app tokens, OAuth client secrets, and private keys across git and cloud environments (AGPL-3.0).
 
-- **[pangolin](https://github.com/fosrl/pangolin)** [![GitHub stars](https://img.shields.io/github/stars/fosrl/pangolin?style=social&color=white)](https://github.com/fosrl/pangolin/stargazers)  
+- **[pangolin](https://github.com/fosrl/pangolin)** [![GitHub_Stars](https://img.shields.io/github/stars/fosrl/pangolin?style=social&color=white)](https://github.com/fosrl/pangolin/stargazers)  
   Open-source SASE platform built on WireGuard providing zero-trust VPN, identity-aware reverse proxy, and privileged access management (AGPL-3.0).
 
-- **[server](https://github.com/bitwarden/server)** [![GitHub stars](https://img.shields.io/github/stars/bitwarden/server?style=social&color=white)](https://github.com/bitwarden/server/stargazers)  
+- **[server](https://github.com/bitwarden/server)** [![GitHub_Stars](https://img.shields.io/github/stars/bitwarden/server?style=social&color=white)](https://github.com/bitwarden/server/stargazers)  
   Open-source credential and secrets management backend (AGPL-3.0) providing secure storage for connected app API keys and OAuth secrets.
 
-- **[hydra](https://github.com/ory/hydra)** [![GitHub stars](https://img.shields.io/github/stars/ory/hydra?style=social&color=white)](https://github.com/ory/hydra/stargazers)  
+- **[hydra](https://github.com/ory/hydra)** [![GitHub_Stars](https://img.shields.io/github/stars/ory/hydra?style=social&color=white)](https://github.com/ory/hydra/stargazers)  
   Hardened OpenID Connect Certified and OAuth 2.0 authorization server used for securing third-party app connections and API access flows (Apache-2.0).
 
-- **[zitadel](https://github.com/zitadel/zitadel)** [![GitHub stars](https://img.shields.io/github/stars/zitadel/zitadel?style=social&color=white)](https://github.com/zitadel/zitadel/stargazers)  
+- **[zitadel](https://github.com/zitadel/zitadel)** [![GitHub_Stars](https://img.shields.io/github/stars/zitadel/zitadel?style=social&color=white)](https://github.com/zitadel/zitadel/stargazers)  
   Cloud-native identity infrastructure and access management platform with OAuth 2.0, OIDC, passwordless authentication, and multi-tenancy (Apache-2.0).
 
-- **[oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)** [![GitHub stars](https://img.shields.io/github/stars/oauth2-proxy/oauth2-proxy?style=social&color=white)](https://github.com/oauth2-proxy/oauth2-proxy/stargazers)  
+- **[oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)** [![GitHub_Stars](https://img.shields.io/github/stars/oauth2-proxy/oauth2-proxy?style=social&color=white)](https://github.com/oauth2-proxy/oauth2-proxy/stargazers)  
   Reverse proxy and middleware handling authentication using OAuth 2.0 / OIDC providers to protect upstream connected applications (MIT).
 
-- **[prowler](https://github.com/prowler-cloud/prowler)** [![GitHub stars](https://img.shields.io/github/stars/prowler-cloud/prowler?style=social&color=white)](https://github.com/prowler-cloud/prowler/stargazers)  
+- **[prowler](https://github.com/prowler-cloud/prowler)** [![GitHub_Stars](https://img.shields.io/github/stars/prowler-cloud/prowler?style=social&color=white)](https://github.com/prowler-cloud/prowler/stargazers)  
   Multi-cloud security posture assessment and compliance tool covering AWS, Azure, GCP, and Kubernetes with 300+ security checks (Apache-2.0).
 
-- **[kubescape](https://github.com/kubescape/kubescape)** [![GitHub stars](https://img.shields.io/github/stars/kubescape/kubescape?style=social&color=white)](https://github.com/kubescape/kubescape/stargazers)  
+- **[kubescape](https://github.com/kubescape/kubescape)** [![GitHub_Stars](https://img.shields.io/github/stars/kubescape/kubescape?style=social&color=white)](https://github.com/kubescape/kubescape/stargazers)  
   Kubernetes open-source security platform (CNCF Sandbox / Apache-2.0) assessing risk, compliance, RBAC, and workload vulnerabilities.
 
-- **[dex](https://github.com/dexidp/dex)** [![GitHub stars](https://img.shields.io/github/stars/dexidp/dex?style=social&color=white)](https://github.com/dexidp/dex/stargazers)  
+- **[dex](https://github.com/dexidp/dex)** [![GitHub_Stars](https://img.shields.io/github/stars/dexidp/dex?style=social&color=white)](https://github.com/dexidp/dex/stargazers)  
   OpenID Connect and OAuth 2.0 identity provider acting as a pluggable authentication gateway to LDAP, SAML, and OAuth providers (Apache-2.0).
 
-- **[falco](https://github.com/falcosecurity/falco)** [![GitHub stars](https://img.shields.io/github/stars/falcosecurity/falco?style=social&color=white)](https://github.com/falcosecurity/falco/stargazers)  
+- **[falco](https://github.com/falcosecurity/falco)** [![GitHub_Stars](https://img.shields.io/github/stars/falcosecurity/falco?style=social&color=white)](https://github.com/falcosecurity/falco/stargazers)  
   Cloud-native runtime security tool (CNCF Graduated / Apache-2.0) for detecting anomalous application and connected container behaviors.
 
-- **[cloud-custodian](https://github.com/cloud-custodian/cloud-custodian)** [![GitHub stars](https://img.shields.io/github/stars/cloud-custodian/cloud-custodian?style=social&color=white)](https://github.com/cloud-custodian/cloud-custodian/stargazers)  
+- **[cloud-custodian](https://github.com/cloud-custodian/cloud-custodian)** [![GitHub_Stars](https://img.shields.io/github/stars/cloud-custodian/cloud-custodian?style=social&color=white)](https://github.com/cloud-custodian/cloud-custodian/stargazers)  
   Rules engine for cloud security governance, compliance, and automated remediation across cloud accounts and connected services (Apache-2.0).
 
-- **[pomerium](https://github.com/pomerium/pomerium)** [![GitHub stars](https://img.shields.io/github/stars/pomerium/pomerium?style=social&color=white)](https://github.com/pomerium/pomerium/stargazers)  
+- **[pomerium](https://github.com/pomerium/pomerium)** [![GitHub_Stars](https://img.shields.io/github/stars/pomerium/pomerium?style=social&color=white)](https://github.com/pomerium/pomerium/stargazers)  
   Identity-aware reverse proxy implementing zero-trust access to internal and connected applications with continuous contextual authorization (Apache-2.0).
 
-- **[octelium](https://github.com/octelium/octelium)** [![GitHub stars](https://img.shields.io/github/stars/octelium/octelium?style=social&color=white)](https://github.com/octelium/octelium/stargazers)  
+- **[octelium](https://github.com/octelium/octelium)** [![GitHub_Stars](https://img.shields.io/github/stars/octelium/octelium?style=social&color=white)](https://github.com/octelium/octelium/stargazers)  
   Zero-trust secure access platform operating as remote access VPN, ZTNA, API/MCP gateway, and PaaS with OpenTelemetry-native auditing (Apache-2.0).
 
-- **[KubeArmor](https://github.com/accuknox/KubeArmor)** [![GitHub stars](https://img.shields.io/github/stars/accuknox/KubeArmor?style=social&color=white)](https://github.com/accuknox/KubeArmor/stargazers)  
+- **[KubeArmor](https://github.com/accuknox/KubeArmor)** [![GitHub_Stars](https://img.shields.io/github/stars/accuknox/KubeArmor?style=social&color=white)](https://github.com/accuknox/KubeArmor/stargazers)  
   Runtime security enforcement engine (CNCF Sandbox / Apache-2.0) powering AccuKnox CNAPP with MCP server sandboxing and GenAI application protection.
 
-- **[foxnode-aspm](https://github.com/valinorintelligence/foxnode-aspm)** [![GitHub stars](https://img.shields.io/github/stars/valinorintelligence/foxnode-aspm?style=social&color=white)](https://github.com/valinorintelligence/foxnode-aspm/stargazers)  
+- **[foxnode-aspm](https://github.com/valinorintelligence/foxnode-aspm)** [![GitHub_Stars](https://img.shields.io/github/stars/valinorintelligence/foxnode-aspm?style=social&color=white)](https://github.com/valinorintelligence/foxnode-aspm/stargazers)  
   Application Security Posture Management platform with 16+ security tool parsers, AI finding triage, and compliance mapping to OWASP, SOC 2, and ISO 27001.
 
-- **[ClosedSSPM](https://github.com/PiotrMackowski/ClosedSSPM)** [![GitHub stars](https://img.shields.io/github/stars/PiotrMackowski/ClosedSSPM?style=social&color=white)](https://github.com/PiotrMackowski/ClosedSSPM/stargazers)  
+- **[ClosedSSPM](https://github.com/PiotrMackowski/ClosedSSPM)** [![GitHub_Stars](https://img.shields.io/github/stars/PiotrMackowski/ClosedSSPM?style=social&color=white)](https://github.com/PiotrMackowski/ClosedSSPM/stargazers)  
   Open-source SaaS Security Posture Management CLI in Go auditing connected apps and SaaS configurations across Jira, Microsoft 365, and GitHub.
 
 ---
